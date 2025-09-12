@@ -16,7 +16,7 @@
     "artplayer": "^5.1.1",
     "artplayer-plugin-chapter": "^1.0.0",
     "artplayer-plugin-hls-quality": "^2.0.0",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "cheerio": "^1.0.0",
     "copy-to-clipboard": "^3.3.3",
     "emoji-picker-react": "^4.12.0",
